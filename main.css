@@ -3,4 +3,9 @@ body {
   color: #424242;
   width: 500px;
   margin: 20px auto;
+  line-height: 1.6;
+}
+
+p {
+  margin: 2rem 0;
 }
